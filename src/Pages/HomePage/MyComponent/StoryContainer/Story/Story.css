@@ -9,7 +9,7 @@ h5{
     padding: 0;
 }
 .story_content{
-    background:linear-gradient(#ff2a9f, #9000d3, #ffc107);
+    background:linear-gradient(220deg, #ff2a9f, #ffc107);
     height: 65px;
     width: 65px;
     border-radius: 50%;
@@ -17,11 +17,11 @@ h5{
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    padding: 0;
+    padding: -10px;
 }
 .story_profile{
-    height: 89%;
-    width: 89%;
+    height: 95%;
+    width: 95%;
     border: 2px solid rgb(255, 255, 255);
     overflow: hidden;
     object-fit: contain;
